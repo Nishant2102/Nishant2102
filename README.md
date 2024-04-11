@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hi there! 👋 I'm [Your Name]
 
-<!--
-**Nishant2102/Nishant2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/Nishant2102?label=Follow&style=social)](https://github.com/Nishant2102)
+[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?style=social)](https://twitter.com/your_twitter_username)
 
-Here are some ideas to get you started:
+## About Me ℹ️
+I'm a [Your Profession] passionate about [Your Interests]. I enjoy [Something You Enjoy Doing] and love to [Another Interest or Hobby].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- Programming Languages: [Languages you're proficient in]
+- Frameworks & Libraries: [Frameworks and libraries you use]
+- Tools & Software: [Development tools and software you use]
+
+## 🌱 I’m currently learning
+- [Something you're currently learning]
+- [Another topic you're interested in]
+
+## 💼 Work Experience
+- [Your current job/role and company]
+- [Previous job/role and company, if applicable]
+
+## 📫 How to reach me
+- Email: [Your Email Address]
+- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your_profile)
+
+## 😄 Pronouns
+[Your preferred pronouns]
+
+## ⚡ Fun fact
+[Share an interesting or fun fact about yourself]
+
+---
+
+⭐️ From [Your Name](https://github.com/your_username)
