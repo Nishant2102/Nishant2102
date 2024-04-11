@@ -1,10 +1,9 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Nishant Sharma
 
 [![GitHub followers](https://img.shields.io/github/followers/Nishant2102?label=Follow&style=social)](https://github.com/Nishant2102)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?style=social)](https://twitter.com/your_twitter_username)
 
 ## About Me ℹ️
-I'm a [Your Profession] passionate about [Your Interests]. I enjoy [Something You Enjoy Doing] and love to [Another Interest or Hobby].
+I'm a B.Tech student at IIT Jodhpur passionate about ML and Web Dev. I enjoy reading anme and love to work on exciting projects.
 
 ## 🔧 Technologies & Tools
 - Programming Languages: [Languages you're proficient in]
