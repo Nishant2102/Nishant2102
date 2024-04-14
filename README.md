@@ -21,9 +21,21 @@ I'm a B.Tech student at IIT Jodhpur passionate about ML and Web Dev. I enjoy rea
 ## 📊 GitHub Stats
 ![Nishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishant2102&show_icons=true&theme=radical)
 
+## 📈 Contributions
+![Nishant's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Nishant2102)
+
+## 🎨 Visual Preview
+![Project Screenshot 1](https://via.placeholder.com/600x300)
+![Project Screenshot 2](https://via.placeholder.com/600x300)
+
+## 🚀 Dynamic Content
+- [Blog Feed](https://yourblog.com)
+- [GitHub Activity Feed](https://github.com/Nishant2102.atom)
+
 ## 📫 How to reach me
-- Email: b22ch017@iitj.ac.in
-- LinkedIn: [Nishant Sharma](https://www.linkedin.com/in/nishantsharma2102)
+- Email: [Your Email Address]
+- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your_profile)
 
 ## 😄 Pronouns
 [Your preferred pronouns]
