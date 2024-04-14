@@ -1,5 +1,4 @@
-<img src="[https://drive.google.com/file/d/1bWzQduI9fPA7W9X5SvUS9hnAnMC0zC5F/view?usp=sharing]" alt="Banner Image" style="width:100%;">
-
+<img src="https://drive.google.com/uc?export=view&id=1bWzQduI9fPA7W9X5SvUS9hnAnMC0zC5F" alt="Banner Image" style="width:100%;">
 [![GitHub followers](https://img.shields.io/github/followers/Nishant2102?label=Follow&style=social)](https://github.com/Nishant2102)
 
 ### Hi there! 👋 I'm Nishant Sharma
