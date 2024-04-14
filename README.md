@@ -1,6 +1,8 @@
-# Hi there! 👋 I'm Nishant Sharma
 
 [![GitHub followers](https://img.shields.io/github/followers/Nishant2102?label=Follow&style=social)](https://github.com/Nishant2102)
+
+### Hi there! 👋 I'm Nishant Sharma
+
 
 ## About Me ℹ️
 I'm a B.Tech student at IIT Jodhpur passionate about ML and Web Dev. I enjoy reading anime and love to work on exciting projects.
@@ -26,7 +28,6 @@ I'm a B.Tech student at IIT Jodhpur passionate about ML and Web Dev. I enjoy rea
 ## 📫 How to reach me
 - Email: [b22ch017@iitj.ac.in]
 - LinkedIn: [Nishant Sharma](https://www.linkedin.com/in/nishantsharma2102)
-
 
 ---
 
