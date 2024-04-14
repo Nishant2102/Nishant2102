@@ -1,7 +1,9 @@
 <img src="https://drive.google.com/uc?export=view&id=1bWzQduI9fPA7W9X5SvUS9hnAnMC0zC5F" alt="Banner Image" style="width:100%;">
 
 [![GitHub followers](https://img.shields.io/github/followers/Nishant2102?label=Follow&style=social)](https://github.com/Nishant2102)
+
 ![Profile views](https://profile-counter.glitch.me/Nishant2102/count)
+
 ## About Me ℹ️
 I'm a B.Tech student at IIT Jodhpur passionate about ML and Web Dev. I enjoy reading anime and love to work on exciting projects.
 
