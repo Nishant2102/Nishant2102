@@ -15,34 +15,22 @@ I'm a B.Tech student at IIT Jodhpur passionate about ML and Web Dev. I enjoy rea
 - Full-stack development with MERN stack
 
 ## 💼 Work Experience
-- Student at IIT Jodhpur
-- Intern at XYZ Corp (Past)
-
-## 📊 GitHub Stats
-![Nishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishant2102&show_icons=true&theme=radical)
+- Btech. sophomore at IIT Jodhpur
 
 ## 📈 Contributions
 ![Nishant's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Nishant2102)
 
-## 🎨 Visual Preview
-![Project Screenshot 1](https://via.placeholder.com/600x300)
-![Project Screenshot 2](https://via.placeholder.com/600x300)
+## 📊 GitHub Stats
+![Nishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishant2102&show_icons=true&theme=radical)
 
 ## 🚀 Dynamic Content
-- [Blog Feed](https://yourblog.com)
+- [Blog Feed](https://nishant2102.github.io/My_Portfolio/)
 - [GitHub Activity Feed](https://github.com/Nishant2102.atom)
 
 ## 📫 How to reach me
-- Email: [Your Email Address]
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your_profile)
+- Email: [b22ch017@iitj.ac.in]
+- LinkedIn: [Nishant Sharma](https://www.linkedin.com/in/nishantsharma2102)
 
-## 😄 Pronouns
-[Your preferred pronouns]
-
-## ⚡ Fun fact
-I can solve a Rubik's cube in under a minute!
 
 ---
 
-⭐️ From [Your Name](https://github.com/your_username)
