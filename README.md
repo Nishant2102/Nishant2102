@@ -2,14 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Nishant2102?label=Follow&style=social)](https://github.com/Nishant2102)
 
-<div style="text-align:center;">
-  <a href="https://github.com/Nishant2102" class="outer-button">
-    <div class="inner-button">Follow Me</div>
-  </a>
-</div>
-
-[Profile views](https://komarev.com/ghpvc/?username=Nishant2102&style=flat-square)
-
+![Profile views](https://komarev.com/ghpvc/?username=Nishant2102&style=flat-square)
 
 ## About Me ℹ️
 I'm a B.Tech student at IIT Jodhpur passionate about ML and Web Dev. I enjoy reading anime and love to work on exciting projects.
