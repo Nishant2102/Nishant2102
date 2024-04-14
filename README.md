@@ -8,6 +8,8 @@
   </a>
 </div>
 
+[Profile views](https://komarev.com/ghpvc/?username=Nishant2102&style=flat-square)
+
 
 ## About Me ℹ️
 I'm a B.Tech student at IIT Jodhpur passionate about ML and Web Dev. I enjoy reading anime and love to work on exciting projects.
