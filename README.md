@@ -3,20 +3,23 @@
 [![GitHub followers](https://img.shields.io/github/followers/Nishant2102?label=Follow&style=social)](https://github.com/Nishant2102)
 
 ## About Me ℹ️
-I'm a B.Tech student at IIT Jodhpur passionate about ML and Web Dev. I enjoy reading anme and love to work on exciting projects.
+I'm a B.Tech student at IIT Jodhpur passionate about ML and Web Dev. I enjoy reading anime and love to work on exciting projects.
 
 ## 🔧 Technologies & Tools
-- Programming Languages: [Languages you're proficient in]
-- Frameworks & Libraries: [Frameworks and libraries you use]
-- Tools & Software: [Development tools and software you use]
+- Programming Languages: Python, JavaScript, HTML/CSS
+- Frameworks & Libraries: TensorFlow, React, Flask
+- Tools & Software: VS Code, Git, Docker
 
 ## 🌱 I’m currently learning
-- [Something you're currently learning]
-- [Another topic you're interested in]
+- Natural Language Processing
+- Full-stack development with MERN stack
 
 ## 💼 Work Experience
-- [Your current job/role and company]
-- [Previous job/role and company, if applicable]
+- Student at IIT Jodhpur
+- Intern at XYZ Corp (Past)
+
+## 📊 GitHub Stats
+![Nishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishant2102&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 - Email: [Your Email Address]
@@ -27,7 +30,7 @@ I'm a B.Tech student at IIT Jodhpur passionate about ML and Web Dev. I enjoy rea
 [Your preferred pronouns]
 
 ## ⚡ Fun fact
-[Share an interesting or fun fact about yourself]
+I can solve a Rubik's cube in under a minute!
 
 ---
 
