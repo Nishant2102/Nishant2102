@@ -2,7 +2,11 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Nishant2102?label=Follow&style=social)](https://github.com/Nishant2102)
 
-![Profile views](https://komarev.com/ghpvc/?username=Nishant2102&style=flat-square)
+<div style="text-align:center;">
+  <a href="https://github.com/Nishant2102" class="outer-button">
+    <div class="inner-button">Follow Me</div>
+  </a>
+</div>
 
 
 ## About Me ℹ️
