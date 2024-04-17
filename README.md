@@ -8,13 +8,13 @@
 I'm a B.Tech student at IIT Jodhpur passionate about ML and Web Dev. I enjoy reading anime and love to work on exciting projects.
 
 ## 🔧 Technologies & Tools
-- Programming Languages: Python, JavaScript, HTML/CSS
-- Frameworks & Libraries: TensorFlow, React, Flask
-- Tools & Software: VS Code, Git, Docker
+- Programming Languages: Python, C, C++, HTML/CSS
+- Frameworks & Libraries: sklearn, numpy
+- Tools & Software: VS Code, Git
 
 ## 🌱 I’m currently learning
-- Natural Language Processing
-- Full-stack development with MERN stack
+- DL
+- Full-stack development 
 
 ## 💼 Work Experience
 - Btech. sophomore at IIT Jodhpur
@@ -29,6 +29,6 @@ I'm a B.Tech student at IIT Jodhpur passionate about ML and Web Dev. I enjoy rea
 - Email: [b22ch017@iitj.ac.in]
 - LinkedIn: [Nishant Sharma](https://www.linkedin.com/in/nishantsharma2102)
 
-⭐️ From [Your Name](https://github.com/Nishant2102)
+⭐️ From Nishant Sharma(https://github.com/Nishant2102)
 ---
 
