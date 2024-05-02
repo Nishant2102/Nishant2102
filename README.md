@@ -27,6 +27,7 @@ I'm a B.Tech student at IIT Jodhpur passionate about ML and Web Dev. I enjoy rea
 - Email: [b22ch017@iitj.ac.in]
 - LinkedIn: [Nishant Sharma](https://www.linkedin.com/in/nishantsharma2102)
 
-⭐️ From Nishant Sharma(https://github.com/Nishant2102)
+⭐️ From [Nishant Sharma](https://github.com/Nishant2102)
+
 ---
 
