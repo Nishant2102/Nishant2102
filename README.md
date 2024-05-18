@@ -6,7 +6,7 @@
 
 ## About Me
 I'm a B.Tech student at IIT Jodhpur passionate about ML and Web Dev. I enjoy reading anime and love to work on exciting projects.
-- You can Find my resume [here](https://drive.google.com/file/d/1Qe6pln0H4348ejQ9AieZXADY5dUlGl5R/view?usp=sharing)
+- You can Find my resume [here](https://drive.google.com/file/d/1J1MWOhpCImSVB7aO99gPp4XXq2kstrvQ/view?usp=sharing)
 
 ## 🔧 Technologies & Tools
 - Programming Languages: Python, C, C++, HTML/CSS
