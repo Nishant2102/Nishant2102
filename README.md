@@ -6,7 +6,7 @@
 
 ## About Me
 I'm a B.Tech student at IIT Jodhpur passionate about ML and Web Dev. I enjoy reading anime and love to work on exciting projects.
-- You can Find my resume [here](https://media.licdn.com/dms/document/media/D562DAQEVTuwAPvcaSA/profile-treasury-document-pdf-analyzed/0/1725186504245?e=1726704000&v=beta&t=I7nOxWd4ZoWnNM0hIsqs4NLT85OEJ4XQuvyVjqWNK4o)
+- You can Find my resume [here]([https://media.licdn.com/dms/document/media/D562DAQEVTuwAPvcaSA/profile-treasury-document-pdf-analyzed/0/1725186504245?e=1726704000&v=beta&t=I7nOxWd4ZoWnNM0hIsqs4NLT85OEJ4XQuvyVjqWNK4o](https://nishant2102.github.io/My_Portfolio/))
 
 ## 🔧 Technologies & Tools
 - Programming Languages: Python, C, C++, HTML/CSS
